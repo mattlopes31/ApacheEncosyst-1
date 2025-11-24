@@ -1,0 +1,959 @@
+{
+  "nav": {
+    "home": "Home",
+    "expertise": "Areas of Expertise",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Control Systems for Hydroelectric Power Plants",
+    "subtitle": "Specialist in the design of control command systems for small and medium capacity hydroelectric power plants since 2011",
+    "cta": "Discover our solutions",
+    "experience": "years of experience",
+    "projects": "completed projects",
+    "countries": "countries",
+    "installedMW": "Cumulative Power (MW) of all control systems installed",
+    "employees": "Key personnel: A smaller team that guarantees increased flexibility and maximized efficiency",
+    "worldPresence": "International Presence",
+    "worldExpertise": "Global Expertise",
+    "worldDescription": "Since our inception, we have strong international experience and support hydroelectric projects on 4 continents, from France to several European countries, as well as in Central America, Africa and Asia.",
+    "discoverReferences": "Discover our references",
+    "ourNumbers": "Our Numbers",
+    "provenExpertise": "Proven Expertise",
+    "ctaTitle": "Have a Project in Mind?",
+    "ctaDescription": "Let's discuss your needs and find the right solution for your installation",
+    "ctaButton": "Contact Us"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "Complete expertise in control and command systems",
+    "viewMore": "Learn more",
+    "solutionsTitle": "Areas of Expertise",
+    "solutionsDescription": "Complete expertise in control and command systems for hydroelectric power plants"
+  },
+  "references": {
+    "title": "Our References",
+    "subtitle": "Over 14 years of experience worldwide",
+    "allYears": "All years",
+    "allCountries": "All countries",
+    "allPowers": "All powers",
+    "allTypes": "All types",
+    "projectsList": "Projects List",
+    "ourLocation": "Our Location",
+    "seeOnMaps": "View on Google Maps",
+    "newProject": "New project",
+    "modernization": "Modernization / Rehabilitation",
+    "services": "Services",
+    "atPyrenees": "At the foot of the Pyrenees in South-West France",
+    "address1": "13 Impasse Perbost - Zone Perbost",
+    "allTasks": "All tasks",
+    "address2": "31800 Labarthe Inard, France"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is here to help with your needs",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Error sending message. Please try again.",
+    "required": "Required fields",
+    "address": "Address",
+    "atPyrenees": "At the foot of the Pyrenees, South-West France",
+    "legalRepresentative": "Legal Representative",
+    "siteManager": "Site Manager",
+    "legalInfo": "Legal Information",
+    "responsible": "Responsible",
+    "design": "Design",
+    "hosting": "Hosting",
+    "complaints": "Complaints",
+    "contactUs": "Contact us",
+    "sendMessage": "Send us a message"
+  },
+  "footer": {
+    "description": "Specialist in control and command systems for hydroelectric power plants since 2011.",
+    "navigation": "Navigation",
+    "expertise": "Areas of Expertise",
+    "contact": "Contact",
+    "director": "Director: Mr. Laurent LOPES"
+  },
+  "products": {
+    "automatisme": {
+      "title": "Automation",
+      "subtitle": "Control Command Cabinets",
+      "description": "Personal clave: Un equipo más reducido que garantiza una mayor flexibilidad y una eficiencia máxima.",
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Custom solutions for operating your installations",
+        "intro": {
+          "p1": "Our control command cabinets are custom designed and manufactured to meet the specific requirements of each hydroelectric project. Each cabinet is the result of dedicated engineering integrating the latest automation technologies.",
+          "p2": "We provide complete design from electrical studies to manufacturing in our workshops, including PLC programming and graphical interfaces.",
+          "p3": "All cabinets systematically undergo verification and workshop testing according to a determined protocol before shipment.",
+          "p4": "Our programs are developed to take into account the specifics of the hydroelectric industry, enabling optimization of energy production."
+        },
+        "specifications": {
+          "title": "Technical Specifications",
+          "items": [
+            "High quality equipment and widely available products ensuring spare parts availability",
+            "Programmable Logic Controller (Mainly Siemens Schneider)",
+            "Touch screens",
+            "Measuring devices",
+            "Protection relays",
+            "Synchronization equipment",
+            "Voltage regulator"
+          ]
+        },
+        "features": {
+          "title": "Main Features",
+          "items": [
+            "Automatic and step-by-step start management",
+            "Normal, fast shutdown and emergency sequence management in case of faults",
+            "Automatic starts and stops based on water levels and/or spot energy prices",
+            "Different operating modes: Level, Power, or pressure regulation (taking pressure losses into account)",
+            "Reactive power management: Q=f(U)",
+            "Opening, power, and head limitations for low-head plants",
+            "Maintenance mode allowing individual control of components and motors for safe testing",
+            "Water intake safety and security control",
+            "Trash rack and gate control"
+          ]
+        },
+        "modernization": {
+          "title": "Modernization Projects",
+          "intro1": "Plant modernization is generally carried out for two essential reasons: equipment obsolescence or increased efficiency to improve the load factor (downtime reduction, feature addition, process automation).",
+          "intro2": "In general, the renovation of control equipment results in:",
+          "benefits": {
+            "title": "Benefits",
+            "items": [
+              "Reduced production costs",
+              "Extended lifespan",
+              "Increased reliability",
+              "Extended efficiency",
+              "Better stability"
+            ]
+          },
+          "reasons": {
+            "title": "Reasons to Modernize",
+            "items": [
+              "Equipment obsolescence",
+              "Increased efficiency",
+              "Improved capacity factor",
+              "Reduced downtime",
+              "Feature additions",
+              "Process automation"
+            ]
+          },
+          "steps": {
+            "title": "Modernization is carried out in three stages",
+            "step1": {
+              "title": "Diagnosis of existing equipment",
+              "description": "Complete analysis of current system condition"
+            },
+            "step2": {
+              "title": "Analysis of different solutions",
+              "description": "Collaborative study with the client of available options"
+            },
+            "step3": {
+              "title": "Modernization",
+              "description": "Partial or complete equipment upgrade following the selected solution"
+            }
+          }
+        },
+        "newProjects": {
+          "title": "New Projects",
+          "p1": "The control command system and more generally all electrical equipment are often little considered when carrying out a project. Production equipment (turbines and generators) capture all the attention for various reasons (higher costs, yields, etc.).",
+          "p2": "These systems are however an essential factor in the reliability and productivity of an installation and have a direct impact on the profitability of a project.",
+          "p3": "Optimal integration of the control command system with production equipment ensures ease of daily operation of the installation as well as simplified maintenance, thus contributing to reducing operating costs."
+        },
+        "cta": {
+          "title": "A control command cabinet project?",
+          "subtitle": "Our engineering team is ready to study your project",
+          "button": "Request a quote"
+        }
+      },
+      "details": {
+        "detail1": "Custom tailored design",
+        "detail2": "Manufacturing in our workshops",
+        "detail3": "Optimized programs"
+      }
+    },
+    "scada": {
+      "title": "SCADA / Supervision",
+      "subtitle": "Intelligent and Secure Supervision",
+      "description": "Development of ergonomic and user-friendly SCADA systems with a sleek aesthetic and comprehensive features for simple and efficient operation",
+      "scada": {
+        "page": {
+          "mainTitle": "SCADA / Supervision / Hypervision / Remote Management",
+          "subtitle": "Intelligent and Secure Supervision",
+          "intro": [
+            "Our SCADA (Supervisory Control And Data Acquisition) systems offer complete and intuitive supervision of your hydroelectric installations to operate both production units and water intakes and dams. Developed with particular attention to ergonomics, they enable optimal operation of your installations.",
+            "Each SCADA is custom developed with a modern graphical interface and real-time animated synoptics. The refined aesthetics facilitate handling and reduce operators' cognitive load.",
+            "Our SCADA systems integrate advanced functions: alarm management, historization, preventive maintenance support tools, remote access, etc.",
+            "The development of our systems relies on market software solutions (standard software, proven solutions) and a multi-vendor approach. This choice guarantees an open and independent architecture, essential for the sustainability of your platform.",
+            "We implement hypervision that unifies and secures all your sites. Connected via VPN, they are controlled from a single interface."
+          ],
+          "mainFeatures": {
+            "title": "Main Features",
+            "centralizedSupervision": {
+              "title": "Centralized Supervision",
+              "items": [
+                "Installation overview with animated synoptics, alarm dashboard and curve tools through an ergonomic and intuitive interface",
+                "Hypervision to control all your sites from a single interface"
+              ]
+            },
+            "remoteAccess": {
+              "title": "Remote Access",
+              "items": [
+                "Secure remote access to your sites from computer or smartphone",
+                "Alarm message transmission via SMS / email or WhatsApp"
+              ]
+            },
+            "maintenanceTools": {
+              "title": "Maintenance Support Tools",
+              "items": [
+                "Maintenance mode allowing individual control of components and motors for safe testing",
+                "All sensor settings and calibration accessible from supervision"
+              ]
+            }
+          },
+          "specifications": {
+            "title": "Specifications",
+            "items": [
+              "Ergonomic and intuitive interface",
+              "Multi-protocol compatibility (Modbus, OPC, IEC 104)",
+              "Real-time supervision",
+              "Data logging",
+              "Intelligent alarm management",
+              "Advanced cybersecurity",
+              "Secure remote access",
+              "Automated reports"
+            ]
+          },
+          "testing": {
+            "title": "Testing and Validation",
+            "items": [
+              "Network connectivity test",
+              "PLC communication validation",
+              "Alarm and event testing",
+              "Data logging verification",
+              "User access testing",
+              "Cybersecurity validation",
+              "System load testing",
+              "Operator training"
+            ]
+          },
+          "cta": {
+            "title": "Need a high-performance SCADA system?",
+            "subtitle": "Let's discuss your supervision project",
+            "button": "Contact us"
+          },
+          "backButton": "Back to products"
+        }
+      },
+      "details": {
+        "detail1": "Ergonomic interface",
+        "detail2": "Remote access",
+        "detail3": "Data logging",
+        "detail4": "Preventive maintenance tools"
+      }
+    },
+    "vitesse": {
+      "title": "Speed Regulation",
+      "subtitle": "Controllers for Kaplan, Francis and Pelton turbines",
+      "description": "Speed ​​controller for Kaplan, Francis, and Pelton turbines. Suitable for new projects and upgrading older mechanical or electronic controllers. Custom-designed hydraulic units.",
+      "details": {
+        "detail1": "All turbine types",
+        "detail2": "IEC and IEEE compliant",
+        "detail3": "Hydraulic units"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Speed Control",
+        "subtitle": "Regulators for Kaplan, Francis and Pelton turbines",
+        "intro": {
+          "title": "Speed control",
+          "p1": "Our speed regulator offers a universal regulation solution, designed to adapt to all types of hydraulic turbines: Kaplan, Francis and Pelton. Its versatility makes it the ideal choice for both new installations and the modernization of existing systems, whether mechanical or electronic.",
+          "p2": "High-performance and flexible, it provides primary regulation for isolated grid sites and can also handle secondary regulation for interconnected installations.",
+          "p3": "Based on PLC (Programmable Logic Controller) technology, our regulator guarantees ease of maintenance and long-term spare parts availability. Its design strictly complies with international standards IEC-61362, IEC-60308, IEEE 125-2007 and IEEE 1207-2011."
+        },
+        "groupesHydrauliques": {
+          "title": "Hydraulic power units",
+          "intro": "For a turnkey solution, we expand our expertise in collaboration with our partner: we design and manufacture, partially or completely, the hydraulic servo units that control your turbine.",
+          "items": [
+            "Custom design according to your needs",
+            "Sizing adapted to the turbine",
+            "Quality hydraulic components",
+            "Complete FAT testing in factory"
+          ]
+        },
+        "piecesReserve": {
+          "title": "Spare Parts",
+          "intro": "We also offer a spare parts kit consisting of a backup unit to avoid failures.",
+          "items": [
+            "Server providing primary and secondary regulator (computer interface)",
+            "Distributor and blade isolation valves"
+          ]
+        },
+        "fonctionnalites": {
+          "title": "Features",
+          "items": [
+            "Startup ramp",
+            "Synchronization (unit speed equalization with grid speed)",
+            "Isolated grid operation (primary regulation) in isochronous mode or with droop",
+            "Interconnected grid operation (secondary regulation) with frequency compensation",
+            "Load control with 4 operating modes: Opening, Power, Level, Flow",
+            "Multiple configurable load take-up ramps for each regulation mode",
+            "Manual mode",
+            "Normal and emergency shutdown mode",
+            "Two parameter sets for each mode (no-load, loaded, isolated grid)",
+            "Blade / opening coordination control for Kaplan turbines",
+            "Injector / deflector coordination control for Pelton turbines",
+            "Opening order and injector opening balance control for Pelton turbines",
+            "Opening limiter at startup, no-load and load",
+            "Power limiter",
+            "Setpoint follower",
+            "Automated testing function (overspeed, speed step)",
+            "Turbine position sensor auto-calibration function"
+          ]
+        },
+        "sequences": {
+          "title": "Sequences and tests",
+          "items": [
+            "Solo start without load (wicket gate balancing and slow components opening if needed)",
+            "Automatic synchronization and load take-up",
+            "Transition to grid mode",
+            "Power limiter",
+            "Power margin",
+            "Emergency stop by rapid gate closure",
+            "PxHN function optimizing unit capabilities"
+          ]
+        },
+        "caracteristiques": {
+          "title": "Technical Specifications",
+          "items": [
+            "Compatibility with Kaplan, Francis, Pelton turbines",
+            "New projects and modernization",
+            "Compliant with IEC 61362 and IEEE 125 standards",
+            "High-precision digital regulation",
+            "Intuitive human-machine interface",
+            "Custom hydraulic power units"
+          ]
+        },
+        "cta": {
+          "title": "Need a speed regulator?",
+          "subtitle": "Contact us for a solution adapted to your turbine",
+          "button": "Get a quote"
+        },
+        "pointsForts": {
+          "title": "Key Strengths",
+          "items": [
+            {
+              "title": "Versatile",
+              "description": "Primary regulation function (isolated grids) and secondary (interconnected grids)"
+            },
+            {
+              "title": "PLC-based technology",
+              "description": "Guarantees robustness, ease of maintenance and parts availability"
+            },
+            {
+              "title": "Redundant",
+              "description": "Possible redundancy of main components for increased availability"
+            },
+            {
+              "title": "Full compliance",
+              "description": "Complies with IEC 61362, IEC 60308, IEEE 125-2007 & IEEE 1207-2011 standards"
+            },
+            {
+              "title": "Integrated solution",
+              "description": "Design and manufacturing of regulation hydraulic units in partnership with an expert"
+            },
+            {
+              "title": "Turnkey Service",
+              "description": "Design, manufacturing, installation and commissioning provided by our teams"
+            },
+            {
+              "title": "Retrofit",
+              "description": "Modernization and on-site installation solutions"
+            }
+          ]
+        }
+      }
+    },
+    "tension": {
+      "title": "Voltage Regulation",
+      "subtitle": "Static Excitation Cabinets and Voltage Regulation",
+      "description": "Voltage regulator for rotating diode (brushless) alternators and static excitation systems up to 1000 A DC. Voltage regulation integrated into a PLC or dedicated equipment with redundancy options.",
+      "details": {
+        "detail1": "Up to 1000Adc",
+        "detail2": "Integrated regulators",
+        "detail3": "High precision"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Static Excitation and Voltage Regulation Cabinets",
+        "subtitle": "Our expertise in controlling your alternators' excitation chain",
+        "excitationTension": {
+          "title": "Voltage Excitation for brushless alternators (rotating diodes)",
+          "p1": "Specialized in generator excitation systems, we master the entire regulation chain to guarantee the performance and reliability of your installations.",
+          "p2": "Custom solution: We integrate regulators from the biggest brands in new cabinets or modernize your equipment on site."
+        },
+        "armoiresExcitation": {
+          "title": "Static Excitation Cabinets: Manufacturing and Mastery",
+          "intro": "We design and manufacture our own static excitation cabinets, offering a solution perfectly adapted to your needs.",
+          "items": [
+            {
+              "title": "Power",
+              "description": "Up to 1000 Adc"
+            },
+            {
+              "title": "Configuration",
+              "description": "Simple or redundant rectifier bridges to ensure optimal service continuity"
+            },
+            {
+              "title": "Components",
+              "description": "Products sourced from leading European manufacturers, guaranteeing robustness and compliance"
+            },
+            {
+              "title": "Voltage regulation",
+              "description": "We offer dedicated regulators or in-house regulation algorithms integrated into programmable logic controllers (PLCs), developed by our engineers"
+            }
+          ]
+        },
+        "technologieService": {
+          "title": "Technology and Turnkey Service",
+          "intro": "Our expertise doesn't stop at hardware. We provide you with a complete and operational solution.",
+          "miseEnService": {
+            "title": "Commissioning",
+            "description": "We perform all configuration and commissioning to ensure optimal and safe operation of your equipment."
+          }
+        },
+        "pointsForts": {
+          "title": "Key Strengths",
+          "items": [
+            {
+              "title": "Integration",
+              "description": "Integration of regulators from world-leading manufacturers"
+            },
+            {
+              "title": "In-house Manufacturing",
+              "description": "Design and manufacturing of static excitation cabinets up to 1000 Adc"
+            },
+            {
+              "title": "Reliability",
+              "description": "Use of products from reputable European manufacturers"
+            },
+            {
+              "title": "Flexibility and Redundancy",
+              "description": "Possible redundancy of main components (bridges, regulator) for increased availability"
+            },
+            {
+              "title": "Know-How",
+              "description": "In-house regulation algorithm developed internally"
+            },
+            {
+              "title": "Turnkey Service",
+              "description": "Complete configuration and commissioning provided by our teams"
+            },
+            {
+              "title": "Retrofit",
+              "description": "Modernization and on-site installation solutions"
+            }
+          ]
+        },
+        "fonctionnalitesRegulateur": {
+          "title": "Features of our proprietary regulator",
+          "modeRegulation": {
+            "title": "Regulation modes:",
+            "items": [
+              "Startup ramp",
+              "Voltage equalization during synchronization",
+              "Excitation current regulation (manual mode)",
+              "Voltage regulation",
+              "Power factor regulation (cos φ)",
+              "Reactive power regulation"
+            ]
+          },
+          "autresFonctionnalites": {
+            "title": "Other features:",
+            "items": [
+              "Reactive power compensation by droop",
+              "Pre-positioning",
+              "Field flashing circuit control",
+              "Limiters",
+              "U/F ratio",
+              "Maximum excitation current no-load and loaded",
+              "Minimum excitation current",
+              "Stator current",
+              "Stator voltage",
+              "PSS",
+              "Alpha min / max"
+            ]
+          }
+        },
+        "problematiques": {
+          "title": "Your challenges",
+          "items": [
+            "Lack of feedback experience",
+            "Design defects",
+            "Zero advantage and excessive traction issues",
+            "Configuration errors",
+            "Parts unavailability",
+            "Stator voltage",
+            "Etc."
+          ]
+        },
+        "systemesRegulateur": {
+          "title": "Regulator systems for traceability",
+          "items": [
+            "We offer new cabinets or upgrades of your old regulators and charms",
+            "Turnkey Service: Monitoring-consulting and communication with your regulation teams",
+            "Reliability: Guaranteed replacement service solutions"
+          ]
+        },
+        "servicesPropose": {
+          "title": "Services offered",
+          "items": [
+            "Service: your regulation",
+            "SCADA / Modbus RTU / communication port",
+            "AC & DC / ethernet port",
+            "Choice / Multi-consumer or excitation regulator (obsolete)",
+            "Kits / Emergency excitation regulator personnel",
+            "Portal / functional equivalents",
+            "De-energization and re-energization of equipment",
+            "Auxiliary port / stator current and voltage port"
+          ]
+        },
+        "cta": {
+          "title": "Need an excitation or regulation solution?",
+          "subtitle": "Contact us for sizing adapted to your alternator",
+          "button": "Get a quote"
+        },
+        "protectionsRegulateur": {
+          "title": "Protections",
+          "items": [
+            "AC supply voltage loss",
+            "Rectifier bridge fault",
+            "Rotor ground",
+            "Excitation transformer temperature fault",
+            "PLC watchdog",
+            "Min / Max excitation current",
+            "Min / Max excitation voltage",
+            "Max stator current",
+            "Max generator voltage",
+            "Loss of excitation (by reactive power absorption)",
+            "Field flashing too long"
+          ]
+        }
+      }
+    },
+    "protections": {
+      "title": "Electrical Protection",
+      "subtitle": "Engineering and Commissioning Expertise for Electrical Protection Systems",
+      "description": "Complete protection solutions for alternators, transformers, and power lines. Advanced protection systems compliant with international standards.",
+      "details": {
+        "detail1": "Generator protection",
+        "detail2": "Transformer protection",
+        "detail3": "Line protection"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Engineering and Commissioning Expertise for Electrical Protection Systems",
+        "equipementsCritiques": {
+          "title": "Our expertise covers all critical equipment:",
+          "items": [
+            "Generators",
+            "Motors",
+            "Power and distribution transformers",
+            "Power lines and cables"
+          ]
+        },
+        "etudesIngenierie": {
+          "title": "1. Engineering Studies and Protection Coordination",
+          "intro": "We perform in-depth calculation studies to ensure perfect selectivity of your protections:",
+          "items": [
+            {
+              "titre": "Short-circuit current calculation",
+              "description": "according to IEC 60909 standard"
+            },
+            {
+              "titre": "Protection simulation and coordination",
+              "description": "using ETAP reference software"
+            },
+            {
+              "titre": "Complete technical documentation",
+              "description": "(calculation notes, study reports, tripping curves)"
+            }
+          ]
+        },
+        "configurationTests": {
+          "title": "2. Configuration, Testing and Commissioning",
+          "intro": "Our intervention ensures compliance between theoretical study and field reality:",
+          "items": [
+            {
+              "titre": "Precise configuration and adjustment",
+              "description": "of relay parameters"
+            },
+            {
+              "titre": "Workshop testing and validation",
+              "description": "on test bench to pre-validate functionalities"
+            },
+            {
+              "titre": "On-site commissioning and testing",
+              "description": "with secondary injection case for final protection chain verification"
+            }
+          ]
+        },
+        "typesProtections": {
+          "title": "Protection Solutions",
+          "items": [
+            {
+              "type": "Generators",
+              "description": "Complete protection: differential, thermal overload, imbalance, loss of excitation, reverse power",
+              "fonctions": "ANSI 87G, 49, 46, 40, 32, 64"
+            },
+            {
+              "type": "Transformers",
+              "description": "Differential protection, tank ground, Buchholz, thermal overload, earth protection",
+              "fonctions": "ANSI 87T, 63, 49, 50N/51N"
+            },
+            {
+              "type": "Power Lines",
+              "description": "Distance protection, directional overcurrent, ground fault, automatic recloser",
+              "fonctions": "ANSI 21, 67, 50N/51N, 79"
+            }
+          ]
+        },
+        "specifications": {
+          "title": "Technical Specifications",
+          "items": [
+            "IEC 60255 and IEEE compliant",
+            "High performance digital relays",
+            "Differential protection (87)",
+            "Distance protection (21)",
+            "Overload protection (49/51)",
+            "Earth protection (50N/51N)",
+            "Disturbance recorder",
+            "IEC 61850 communication"
+          ]
+        },
+        "cta": {
+          "title": "Protect your electrical equipment",
+          "subtitle": "Ensure the safety and reliability of your installation",
+          "button": "Request a study"
+        }
+      }
+    },
+    "instrumentation": {
+      "title": "Instrumentation",
+      "subtitle": "Supply, installation and commissioning",
+      "description": "We can provide you with a solution for instrumentation and spare parts for all your needs, both in the factory and at dams and water intakes.",
+      "details": {
+        "detail1": "Complete installation",
+        "detail2": "Dams and water intakes",
+        "detail3": "Wide range of sensors"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Instrumentation",
+        "subtitle": "Supply, installation and commissioning",
+        "intro": {
+          "title": "Complete Instrumentation Solution",
+          "p1": "Whether for your production units, dams or water intakes, we offer instrumentation and spare parts for all your equipment. Our expertise covers all your needs.",
+          "p2": "Our range includes measuring instruments for: levels (dams, water intakes, channels), temperatures (bearings, windings, oil), positions (valves, flaps, distributor), speeds (turbine rotation), vibrations (unit monitoring), flow rates (open channel and penstock).",
+          "p3": "All our sensors are industrial grade, selected from recognized manufacturers. They are calibrated in the laboratory before delivery and supplied with their calibration certificates.",
+          "p4": "Installation is carried out by our teams or our qualified local partners. We provide complete wiring to control cabinets, commissioning tests and operator training."
+        },
+        "typesInstrumentation": {
+          "title": "Sensor Types",
+          "items": [
+            {
+              "categorie": "Levels",
+              "capteurs": [
+                "Radar",
+                "Ultrasonic",
+                "Float",
+                "Piezometric"
+              ]
+            },
+            {
+              "categorie": "Temperature",
+              "capteurs": [
+                "PT100",
+                "Thermocouple",
+                "RTD",
+                "Infrared"
+              ]
+            },
+            {
+              "categorie": "Pressure",
+              "capteurs": [
+                "Piezoresistive",
+                "Capacitive",
+                "Differential"
+              ]
+            },
+            {
+              "categorie": "Flow",
+              "capteurs": [
+                "Electromagnetic",
+                "Ultrasonic",
+                "Vortex",
+                "Open channel"
+              ]
+            }
+          ]
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Level measurement in dams",
+            "Flow control in open channel",
+            "Flow measurement in penstock",
+            "Bearing temperature monitoring",
+            "Unit vibration measurement",
+            "Valve and flap position",
+            "Turbine rotation speed",
+            "Hydraulic circuit pressure"
+          ]
+        },
+        "specifications": {
+          "title": "Specifications",
+          "items": [
+            "Certified industrial sensors",
+            "Laboratory calibration",
+            "IP65 to IP68 protection",
+            "4-20mA / 0-10V / digital signals",
+            "Compatible with PLCs and SCADA",
+            "Complete turnkey installation",
+            "Technical documentation provided",
+            "Local team training"
+          ]
+        },
+        "essais": {
+          "title": "Testing and Validation",
+          "items": [
+            "Calibration verification",
+            "4-20mA loop testing",
+            "Measurement validation",
+            "Communication testing",
+            "Alarm verification",
+            "Sealing test",
+            "Complete functional test",
+            "As-built documentation"
+          ]
+        },
+        "cta": {
+          "title": "Need instrumentation?",
+          "subtitle": "We support you in choosing and installing your sensors",
+          "button": "Request a quote"
+        },
+        "expertise": {
+          "title": "Our Expertise",
+          "items": [
+            {
+              "title": "European Sourcing",
+              "description": "Thanks to our presence, we identify and deliver all necessary parts from our vast network of suppliers across the continent"
+            },
+            {
+              "title": "On-site installation",
+              "description": "Our teams and partners can intervene for equipment installation, providing turnkey service"
+            },
+            {
+              "title": "Retrofit & Modernization",
+              "description": "We develop turnkey retrofit solutions for modernizing your obsolete systems by integrating the latest technologies to optimize their performance and lifespan"
+            }
+          ]
+        },
+        "instrumentationUsine": {
+          "title": "Plant instrumentation",
+          "items": [
+            "Speed",
+            "Vibration",
+            "Temperature",
+            "Gate/injector position",
+            "Etc."
+          ]
+        },
+        "instrumentationBarrage": {
+          "title": "Dam and water intake instrumentation",
+          "items": [
+            "Level",
+            "Air/water temperature",
+            "Valve and gate position",
+            "Open channel flow",
+            "Penstock flow",
+            "Silting",
+            "Etc."
+          ]
+        },
+        "piecesRechange": {
+          "title": "Spare parts",
+          "items": [
+            "Control systems",
+            "HV/MV substations",
+            "Mechanical equipment",
+            "Hydraulic equipment"
+          ]
+        }
+      }
+    },
+    "ingenierie": {
+      "title": "Electrical System Engineering",
+      "subtitle": "HV Substations, Auxiliary Distributions, Auxiliary Systems",
+      "description": "Electrical System Engineering: Integration of all electrical equipment necessary for the operation of a hydroelectric power plant. Post-high voltage, transformer and auxiliary distribution systems essential for the proper functioning of the plant.",
+      "details": {
+        "detail1": "HV Substations",
+        "detail2": "Auxiliary distributions",
+        "detail3": "Auxiliary Systems"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Electrical System Engineering",
+        "subtitle": "HV Substations, Auxiliary Distributions, Auxiliary Systems",
+        "intro": {
+          "title": "Complete Integration of Electrical Systems",
+          "p1": "We provide engineering and integration of all electrical equipment necessary for the operation of a hydroelectric plant, from high voltage substations to auxiliary distributions. We perform short-circuit and protection selectivity studies using dedicated software.",
+          "p2": "MV/HV substations include step-up transformers, cells and circuit breakers and all equipment necessary for evacuating the produced energy to the grid.",
+          "p3": "Auxiliaries – or electrical Balance of Plant (eBoP) include all auxiliary electrical equipment essential to ensure proper plant operation."
+        },
+        "advantages": {
+          "title": "Our Strengths",
+          "items": [
+            {
+              "title": "Complete Integration",
+              "description": "Comprehensive design of all electrical systems"
+            },
+            {
+              "title": "Reliability",
+              "description": "Redundant solutions for critical systems"
+            },
+            {
+              "title": "Expertise",
+              "description": "Short-circuit studies and protection selectivity"
+            }
+          ]
+        },
+        "solutions": {
+          "title": "Our Solutions",
+          "postesHTA": {
+            "title": "HV Substations",
+            "items": [
+              "HV switchgear",
+              "Protection cabinets",
+              "Step-up transformer",
+              "Auxiliary services transformer"
+            ]
+          },
+          "distributions": {
+            "title": "Auxiliary Distributions",
+            "items": [
+              "400V main switchboard",
+              "Distribution boards",
+              "Battery chargers",
+              "110V/48V/24V",
+              "DC distribution",
+              "UPS systems",
+              "With redundancy options for critical systems"
+            ]
+          },
+          "systemesAuxiliaires": {
+            "title": "Auxiliary Systems",
+            "items": [
+              "Ventilation and heating systems",
+              "Drainage pump control cabinets or Video surveillance",
+              "Telephone system",
+              "Intrusion alarms",
+              "Fire alarms",
+              "Lighting and power outlets"
+            ]
+          }
+        },
+        "cta": {
+          "title": "Need complete electrical engineering?",
+          "subtitle": "Contact us for a customized study of your installation",
+          "button": "Get a quote"
+        }
+      }
+    },
+    "dataVisualisation": {
+      "title": "Data Visualization and Reports",
+      "subtitle": "Industry 4.0 - IoT - BigData",
+      "description": "Innovative Industry 4.0 solutions integrating IoT and Big Data to collect, store, compile and leverage data in the form of dynamic dashboards",
+      "details": {
+        "detail1": "Industry 4.0",
+        "detail2": "IoT & BigData",
+        "detail3": "Dynamic dashboards"
+      },
+      "page": {
+        "backButton": "Back to products",
+        "mainTitle": "Data Visualization and Reports",
+        "subtitle": "Industry 4.0 - IoT - BigData",
+        "intro": [
+          "Our Data Visualization solutions transform your raw data into actionable information. Through the integration of IoT and BigData technologies, we collect, store and analyze all data from your installations, whether production data (power, levels, temperatures, speed, unit operating status, etc.) or alarms. It is also possible to enrich this database with information from Vigicrue or Météo France or others.",
+          "Dynamic dashboards offer a real-time view of your essential KPIs: production, availability, load factor, and much more. Each dashboard is customizable to your needs and includes features such as a logbook to record events. This facilitates data analysis, trend identification, unusual drift detection and thus helps optimize the efficiency of your installations.",
+          "Access to this platform is via a web server, ensuring compatibility with any type of device (PC, smartphone) and featuring a password-secured authentication system."
+        ],
+        "mainFeatures": {
+          "title": "Key Features",
+          "items": [
+            {
+              "title": "Data Collection",
+              "description": "Automatic and time-stamped data acquisition from all your installations, vigicrue, Météo France, etc."
+            },
+            {
+              "title": "Analysis",
+              "description": "Transforms historized data into consolidated and valued data"
+            },
+            {
+              "title": "Visualization",
+              "description": "Interactive and customizable dashboards"
+            }
+          ]
+        },
+        "specifications": {
+          "title": "Technical Specifications",
+          "items": [
+            "Industry 4.0 solutions",
+            "IoT and BigData integration",
+            "Dynamic dashboards",
+            "Storage on local server and/or cloud",
+            "Secure access",
+            "Logbook for recording events"
+          ]
+        },
+        "reports": {
+          "title": "Report Types",
+          "items": [
+            "Daily production reports",
+            "Monthly performance analysis",
+            "Real-time KPIs",
+            "Automatic alerts",
+            "Historical comparisons",
+            "Alarm log"
+          ]
+        },
+        "cta": {
+          "title": "Leverage your data!",
+          "subtitle": "Transform your data into competitive advantage",
+          "button": "Request a demo"
+        }
+      }
+    }
+  },
+  "common": {
+    "readMore": "Read more",
+    "backToProducts": "Back to products",
+    "getQuote": "Request a quote",
+    "contactUs": "Contact us",
+    "learnMore": "Learn more",
+    "requestQuote": "Request a quote",
+    "requestDemo": "Request a demo",
+    "requestStudy": "Request a study",
+    "features": "Features",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "advantages": "Advantages"
+  }
+}

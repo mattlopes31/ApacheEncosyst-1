@@ -1,0 +1,958 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "expertise": "Domaines de compétences",
+    "references": "Références",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Contrôle Commande pour Centrales Hydroélectriques",
+    "subtitle": "Spécialiste dans la conception de systèmes de contrôle commande pour centrales hydroélectriques de petite et moyenne capacité depuis 2011",
+    "cta": "Découvrir nos solutions",
+    "experience": "ans d'expérience",
+    "projects": "projets réalisés",
+    "countries": "pays",
+    "installedMW": "Puissance cumulée (MW) de l’ensemble des contrôles commande réalisé",
+    "employees": "personnes clé Une équipe réduite qui garantit une flexibilité accrue et une efficacité maximisée",
+    "worldPresence": "Présence Internationale",
+    "worldExpertise": "Une Expertise Mondiale",
+    "worldDescription": "Depuis l'origine nous possédons une forte expérience à l'international et accompagnons des projets hydroélectriques sur 4 continents, de la France à plusieurs pays en Europe mais aussi en Amérique Centrale, Afrique et l'Asie.",
+    "discoverReferences": "Découvrir nos références",
+    "ourNumbers": "Nos Chiffres",
+    "provenExpertise": "Une Expertise Éprouvée",
+    "ctaTitle": "Un Projet en Vue ?",
+    "ctaDescription": "Discutons de vos besoins et trouvons ensemble la solution adaptée à votre installation",
+    "ctaButton": "Nous Contacter"
+  },
+  "solutions": {
+    "title": "Nos Solutions",
+    "subtitle": "Expertise complète en systèmes de contrôle-commande",
+    "viewMore": "En savoir plus",
+    "solutionsTitle": "Domaines de Compétences",
+    "solutionsDescription": "Une expertise complète en systèmes de contrôle-commande pour centrales hydroélectriques"
+  },
+  "references": {
+    "title": "Nos Références",
+    "subtitle": "Plus de 14 ans d'expérience à travers le monde",
+    "allYears": "Toutes les années",
+    "allCountries": "Tous les pays",
+    "allPowers": "Toutes les puissances",
+    "allTypes": "Tous les types",
+    "projectsList": "Liste des Projets",
+    "ourLocation": "Notre Localisation",
+    "seeOnMaps": "Voir sur Google Maps",
+    "newProject": "Nouveau projet",
+    "modernization": "Modernisation / Réhabilitation",
+    "services": "Services",
+    "atPyrenees": "Au pied des Pyrénées dans le Sud-Ouest de la France",
+    "address1": "13 Impasse Perbost - Zone Perbost",
+    "allTasks": "Toutes les tâches",
+    "address2": "31800 Labarthe Inard, France"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est à votre disposition pour répondre à vos besoins",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès !",
+    "error": "Erreur lors de l'envoi. Veuillez réessayer.",
+    "required": "Champs obligatoires",
+    "address": "Adresse",
+    "atPyrenees": "Au pied des Pyrénées, Sud-Ouest de la France",
+    "legalRepresentative": "Représentant légal",
+    "siteManager": "Responsable du site",
+    "legalInfo": "Informations légales",
+    "responsible": "Responsable",
+    "design": "Conception",
+    "hosting": "Hébergeur",
+    "complaints": "Réclamations",
+    "contactUs": "Nous contacter",
+    "sendMessage": "Envoyez-nous un message"
+  },
+  "footer": {
+    "description": "Spécialiste en systèmes de contrôle commande pour centrales hydroélectriques depuis 2011.",
+    "navigation": "Navigation",
+    "expertise": "Domaines de compétences",
+    "contact": "Contact",
+    "director": "Directeur : M. Laurent LOPES"
+  },
+  "products": {
+    "automatisme": {
+      "title": "Automatisme",
+      "subtitle": "Armoires de Contrôle Commande",
+      "description": "Conception, fabrication et d'amoires de contrôle commande et tableau de distribution conçu sur mesure pour chaque projet.",
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Conception, fabrication et d'amoires de contrôle commande et tableau de distribution conçu sur mesure pour chaque projet.",
+        "intro": {
+          "p1": "Nos armoires de contrôle commande sont conçues et fabriquées sur mesure pour répondre aux exigences spécifiques de chaque projet hydroélectrique. Chaque armoire est le résultat d'une ingénierie dédiée intégrant les dernières technologies d'automatisation.",
+          "p2": "Nous assurons la conception complète depuis les études électriques jusqu'à la fabrication dans nos ateliers, en passant par la programmation des automates et interfaces graphiques. Toutes les armoires subissent systématiquement une vérification et de tests en atelier selon un protocole déterminé avant expédition.",
+          "p3": "Nos programmes sont développés afin de tenir compte des spécificités de l'industrie hydroélectrique ce qui permet une optimisation de la production d'énergie."
+        },
+        "specifications": {
+          "title": "Spécifications Techniques",
+          "items": [
+            "Matériel de haute qualité et produit de grande diffusion qui assure une disponibilité des pièces de rechanges",
+            "Automate Programmable Industriel (Principalement Siemens Schneider)",
+            "Ecrans tactiles",
+            "Dispositifs de mesure",
+            "Relais de protection",
+            "Equipements de synchronisation",
+            "Régulateur de tension"
+          ]
+        },
+        "features": {
+          "title": "Fonctionnalités principales",
+          "items": [
+            "Gestion des démarrages automatique et en mode pas à pas",
+            "Gestion des séquences d'arrêt normales ou rapide et d'urgence en cas de défauts",
+            "Démarrages et arrêt automatiques en fonction des niveaux d'eau et/ou prix spot de l'énergie",
+            "Différents modes de conduite : Régulation de Niveau, Puissance, ou pression (avec prise en compte des pertes de charges)",
+            "Gestion de la puissance réactif : Q=f(U)",
+            "Limitations d'ouverture, de puissance, de chute pour les centrales de basse chute",
+            "Mode de maintenance permettant le pilotage individuel des organes et moteurs afin de réaliser des tests en toute sécurité",
+            "Contrôle de la sécurité et sureté des prises d'eau",
+            "Pilotage dégrilleurs et vannes"
+          ]
+        },
+        "modernization": {
+          "title": "Projets de modernisation",
+          "intro1": "La modernisation d'une centrale est généralement effectuée pour deux raisons essentielles : l'obsolescence des équipements ou un accroissement de l'efficacité afin d'améliorer le facteur de charge (réduction des temps d'arrêt, ajout de fonctionnalités, automatisation de processus).",
+          "intro2": "De manière générale, la rénovation des équipements de contrôle entraîne :",
+          "benefits": {
+            "title": "Bénéfices",
+            "items": [
+              "Réduction des coûts de production",
+              "Durée de vie prolongée",
+              "Fiabilité accrue",
+              "Efficacité étendue",
+              "Meilleure stabilité"
+            ]
+          },
+          "reasons": {
+            "title": "Raisons de moderniser",
+            "items": [
+              "Obsolescence des équipements",
+              "Accroissement de l'efficacité",
+              "Amélioration du facteur de charge",
+              "Réduction des temps d'arrêt",
+              "Ajout de fonctionnalités",
+              "Automatisation de processus"
+            ]
+          },
+          "steps": {
+            "title": "Une modernisation est réalisée en trois étapes",
+            "step1": {
+              "title": "Diagnostics des équipements existants",
+              "description": "Analyse complète de l'état actuel des systèmes"
+            },
+            "step2": {
+              "title": "Analyse des différentes solutions",
+              "description": "Étude collaborative avec le client des options disponibles"
+            },
+            "step3": {
+              "title": "Modernisation",
+              "description": "Mise à niveau partielle ou totale des équipements suivant la solution retenue"
+            }
+          }
+        },
+        "newProjects": {
+          "title": "Nouveaux projets",
+          "p1": "Le système de contrôle commande et plus généralement tous les équipements électriques sont souvent peu considérés lors de la réalisation d'un projet. Les équipements de production (turbines et alternateurs) captent tout l'attention pour diverses raisons (cout plus élevés, rendements, etc.).",
+          "p2": "Ces systèmes sont pourtant un facteur essentiel dans la fiabilité et la productivité d'une installation et ont un impact direct sur la rentabilité d'un projet.",
+          "p3": "Une intégration optimale du système de contrôle commande aux équipements de production assure une facilité d'exploitation quotidienne de l'installation ainsi qu'une maintenance simplifiée, contribuant ainsi à réduire les coûts d'exploitation."
+        },
+        "cta": {
+          "title": "Un projet d'armoire de contrôle commande ?",
+          "subtitle": "Notre équipe d'ingénieurs est prête à étudier votre projet",
+          "button": "Demander un devis"
+        }
+      },
+      "details": {
+        "detail1": "Design personnalisé sur mesure",
+        "detail2": "Fabrication dans nos ateliers",
+        "detail3": "Programmes optimisés"
+      }
+    },
+    "scada": {
+      "title": "SCADA / Supervision",
+      "subtitle": "Supervision Intelligente et Sécurisée",
+      "description": "Développement système SCADA ergonomique et coniviaux avec un esthétique soignée et des fonctionnalités complètes pour une opération simple et efficace ",
+      "scada": {
+        "page": {
+          "mainTitle": "SCADA / Supervision / Hypervision / Télégestion",
+          "subtitle": "Supervision Intelligente et Sécurisée",
+          "intro": [
+            "Nos systèmes SCADA (Supervisory Control And Data Acquisition) offrent une supervision complète et intuitive de vos installations hydroélectriques pour exploiter aussi bien des groupes de productions que les prises d'eau et barrages. Développés avec une attention particulière apportée à l'ergonomie, ils permettent une exploitation optimale de vos installations.",
+            "Chaque SCADA est développé sur mesure avec une interface graphique moderne et des synoptiques animés en temps réel. L'esthétique soignée facilite la prise en main et réduit la charge cognitive des opérateurs.",
+            "Nos SCADA intègrent des fonctions avancées : gestion des alarmes, historisation, outils d'aide à la maintenance préventive, accès distant, etc.",
+            "Le développement de nos systèmes s'appuie sur des solutions logicielles du marché (logiciels standards, solutions éprouvées) et une approche multi-éditeurs. Ce choix garantit une architecture ouverte et indépendante, essentielle à la pérennisation de votre plateforme.",
+            "Nous réalisons des hypervision qui unifie et sécurise l'ensemble de vos sites. Connectés par VPN, ils sont pilotés depuis une seule et même interface."
+          ],
+          "mainFeatures": {
+            "title": "Fonctionnalités Principales",
+            "centralizedSupervision": {
+              "title": "Supervision Centralisée",
+              "items": [
+                "Vue d'ensemble de l'installation avec synoptiques animés, tableau d'alarmes et outils de courbes au travers d'une interface ergonomique et intuitive",
+                "Hypervision pour piloter l'ensemble de vos sites depuis une seule et même interface"
+              ]
+            },
+            "remoteAccess": {
+              "title": "Accès distant",
+              "items": [
+                "Accès distant sécurisé à vos sites depuis un ordinateur ou smartphone",
+                "Transmission des messages d'alarmes par SMS / email ou WhatsApp"
+              ]
+            },
+            "maintenanceTools": {
+              "title": "Outils d'aide à la maintenance",
+              "items": [
+                "Mode de maintenance permettant le pilotage individuel des organes et moteurs afin de réaliser des tests en toute sécurité",
+                "Ensemble des réglages et calibration capteurs accessibles depuis la supervision"
+              ]
+            }
+          },
+          "specifications": {
+            "title": "Spécifications",
+            "items": [
+              "Interface ergonomique et intuitive",
+              "Compatibilité multi-protocoles (Modbus, OPC, IEC 104)",
+              "Supervision temps réel",
+              "Historisation des données",
+              "Gestion des alarmes intelligente",
+              "Cybersécurité avancée",
+              "Accès distant sécurisé",
+              "Rapports automatisés"
+            ]
+          },
+          "testing": {
+            "title": "Tests et Validation",
+            "items": [
+              "Test de connectivité réseau",
+              "Validation des communications automate",
+              "Test des alarmes et événements",
+              "Vérification de l'historisation",
+              "Test des accès utilisateurs",
+              "Validation cybersécurité",
+              "Test de charge système",
+              "Formation opérateurs"
+            ]
+          },
+          "cta": {
+            "title": "Besoin d'un système SCADA performant ?",
+            "subtitle": "Discutons de votre projet de supervision",
+            "button": "Contactez-nous"
+          },
+          "backButton": "Retour aux produits"
+        }
+      },
+      "details": {
+        "detail1": "Interface ergonomique",
+        "detail2": "Accès distant",
+        "detail3": "Historisation",
+        "detail4": "Outils d'aide à la maintenance préventive"
+      }
+    },
+    "vitesse": {
+      "title": "Régulations de vitesse",
+      "subtitle": "Régulateurs pour turbines Kaplan, Francis et Pelton",
+      "description": "Régulateur de vitesse pour turbines Kaplan, Francis et Pelton. Adapté aux nouveaux projets et à la modernisation d'ancien régulateurs mécaniques ou électronique. Groupes hydrauliques conçu sur mesure.",
+      "details": {
+        "detail1": "Tous types de turbines",
+        "detail2": "Conformes aux normes IEC et IEEE",
+        "detail3": "Groupes hydrauliques"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Régulation de Vitesse",
+        "subtitle": "Régulateurs pour turbines Kaplan, Francis et Pelton",
+        "intro": {
+          "title": "Régulation de vitesse",
+          "p1": "Notre régulateur de vitesse offre une solution de régulation universelle, conçue pour s'adapter à tous les types de turbines hydrauliques : Kaplan, Francis et Pelton. Sa polyvalence en fait le choix idéal, tant pour les nouvelles installations que pour la modernisation de systèmes existants, qu'ils soient mécaniques ou électroniques.",
+          "p2": "Performant et flexible, il assure la régulation primaire des sites en réseau isolé et peut également endosser la régulation secondaire pour les installations interconnectées. Basé sur une technologie PLC (automate programmable industriel), notre régulateur garantit une facilité de maintenance et une pérennité d'approvisionnement en pièces de rechange. Sa conception est rigoureusement conforme aux normes internationales IEC-61362, IEC-60308, IEEE 125-2007 et IEEE 1207-2011."
+        },
+        "groupesHydrauliques": {
+          "title": "Groupes hydrauliques",
+          "intro": "Chez Encosyst, nous offrons également la conception et la fabrication sur-mesure de groupes hydrauliques d'asservissement des différents organes mobiles.",
+          "items": [
+            "Conception sur mesure selon vos besoins",
+            "Dimensionnement adapté à la turbine",
+            "Composants hydrauliques de qualité",
+            "Tests FAT complets en usine"
+          ]
+        },
+        "piecesReserve": {
+          "title": "Pièces Réserve",
+          "intro": "Nous proposons également un lot de pièces de réserve constitué d'un serveur permettant de s'affranchir des pannes.",
+          "items": [
+            "Serveur Fournir le régulateur primaire et secondaire (interface informatique)",
+            "Robinets d'isolement du distributeur et des pales"
+          ]
+        },
+        "fonctionnalites": {
+          "title": "Fonctionnalités",
+          "items": [
+            "Rampe de démarrage",
+            "Synchronisation (égalisation de la vitesse du groupe à la vitesse du réseau)",
+            "Fonctionnement réseau isolé (régulation primaire) en mode isochrone ou avec statisme (Droop)",
+            "Fonctionnement en réseau interconnecté (régulation secondaire) avec compensation de fréquence",
+            "Contrôle de charge avec 4 modes de fonctionnement : Ouverture, Puissance, Niveau, Débit",
+            "Plusieurs rampes de prise de charge paramétrables pour chacun des modes de régulation",
+            "Mode manuel",
+            "Mode d'arrêt normal et d'urgence",
+            "Deux jeux de paramètres pour chacun des modes (à vide, en charge, en réseau isolé)",
+            "Contrôle de la conjugaison des pales / ouverture pour une turbine Kaplan",
+            "Contrôle de la conjugaison injecteur / déflecteur pour une turbine Pelton",
+            "Contrôle de l'ordre d'ouverture et d'équilibrage des ouvertures d'injecteur par une turbine Pelton",
+            "Limiteur d'ouverture au démarrage, à vide et en charge",
+            "Limiteur de puissance",
+            "Suiveur de consigne",
+            "Fonction de test automatisé (survitesse, échelon de vitesse)",
+            "Fonction d'auto calibration des capteurs de position turbine"
+          ]
+        },
+        "sequences": {
+          "title": "Séquences et essais",
+          "items": [
+            "Démarrage seul sans courant (dépin d'équilibrage des couvertes et ouverture des organes lents si besoin)",
+            "Synchronisation automatique et prise de charge",
+            "Passage en mode réseau",
+            "Limiteur de puissance",
+            "Marge de puissance",
+            "Stop d'urgence par fermeture rapide des vannages",
+            "Fonction PxHN optimiseur des capacités du groupe"
+          ]
+        },
+        "caracteristiques": {
+          "title": "Caractéristiques Techniques",
+          "items": [
+            "Compatibilité turbines Kaplan, Francis, Pelton",
+            "Nouveaux projets et modernisation",
+            "Conforme aux normes IEC 61362 et IEEE 125",
+            "Régulation numérique haute précision",
+            "Interface homme-machine intuitive",
+            "Groupes hydrauliques sur mesure"
+          ]
+        },
+        "cta": {
+          "title": "Besoin d'un régulateur de vitesse ?",
+          "subtitle": "Contactez-nous pour une solution adaptée à votre turbine",
+          "button": "Obtenir un devis"
+        },
+        "pointsForts": {
+          "title": "Points Forts",
+          "items": [
+            {
+              "title": "Polyvalent",
+              "description": "Fonction de régulation primaire (réseaux isolés) et secondaire (réseaux interconnectés)"
+            },
+            {
+              "title": "Technologie basée sur automate",
+              "description": "Garantit robustesse, facilité de maintenance et disponibilité des pièces"
+            },
+            {
+              "title": "Redondant",
+              "description": "Redondance possible des composants principaux pour une disponibilité accrue"
+            },
+            {
+              "title": "Conformité totale",
+              "description": "Respecte les normes IEC 61362, IEC 60308, IEEE 125-2007 & IEEE 1207-2011"
+            },
+            {
+              "title": "Solution intégrée",
+              "description": "Conception et fabrication des groupes hydrauliques de régulation en partenariat avec un expert"
+            },
+            {
+              "title": "Service Clé en Main",
+              "description": "Conception, fabrication, installation et mise en service assurés par nos équipes"
+            },
+            {
+              "title": "Rétrofit",
+              "description": "Solutions de modernisation et d'installation sur site"
+            }
+          ]
+        }
+      }
+    },
+    "tension": {
+      "title": "Régulations de Tension et Armoires d'Excitation Statique",
+      "subtitle": "Armoires d'Excitation Statique et de Régulation de Tension",
+      "description": "Régulateut de tension pour alternateur à diodes tournantes (sans balais) et systèmes d'excitation statique jusqu'a 1000 Adc. Régulations de tension embarqué dans un automate ou équipement dédiée avec possibilité de redondance",
+      "details": {
+        "detail1": "Jusqu'à 1000Adc",
+        "detail2": "Régulateur dédiée",
+        "detail3": "Redondance"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Armoires d'Excitation Statique et de Régulation de Tension",
+        "subtitle": "Notre expertise en contrôle de la chaîne d'excitation de vos alternateurs",
+        "excitationTension": {
+          "title": "Excitation de Tension pour alternateurs à diodes tournantes (sans balais)",
+          "p1": "Spécialisés dans les systèmes d'excitation d'alternateurs, nous maîtrisons l'ensemble de la chaîne de régulation pour garantir la performance et la fiabilité de vos installations.",
+          "p2": "Solution sur mesure : Nous intégrons des régulateurs des plus grandes marques dans des armoires neuves ou modernisons vos équipements sur site."
+        },
+        "armoiresExcitation": {
+          "title": "Armoires d'Excitation Statique : Fabrication et Maîtrise",
+          "intro": "Nous concevons et fabriquons nos propres armoires d'excitation statique, offrant une solution parfaitement adaptée à vos besoins.",
+          "items": [
+            {
+              "title": "Puissance",
+              "description": "Jusqu'à 1000 Adc"
+            },
+            {
+              "title": "Configuration",
+              "description": "Ponts redresseurs simples ou redondants pour assurer une continuité de service optimale"
+            },
+            {
+              "title": "Composants",
+              "description": "Produits sourcés auprès de fabricants européens de premier plan, gage de robustesse et de conformité"
+            },
+            {
+              "title": "Régulation de tension",
+              "description": "Nous proposons des régulateurs dédiés ou des algorithmes de régulation maison intégrés dans des automates programmables (API), développés par nos ingénieurs"
+            }
+          ]
+        },
+        "technologieService": {
+          "title": "Technologie et Service Clé en Main",
+          "intro": "Notre expertise ne se limite pas au matériel. Nous vous fournissons une solution complète et opérationnelle.",
+          "miseEnService": {
+            "title": "Mise en Service",
+            "description": "Nous réalisons l'ensemble du paramétrage et de la mise en service pour garantir un fonctionnement optimal et sécurisé de votre équipement."
+          }
+        },
+        "pointsForts": {
+          "title": "Points Forts",
+          "items": [
+            {
+              "title": "Intégration",
+              "description": "Intégration de régulateurs des fabricants leaders mondiaux"
+            },
+            {
+              "title": "Fabrication Propre",
+              "description": "Conception et fabrication d'armoires d'excitation statique jusqu'à 1000 Adc"
+            },
+            {
+              "title": "Fiabilité",
+              "description": "Utilisation de produits de fabricants européens réputés"
+            },
+            {
+              "title": "Flexibilité et Redondance",
+              "description": "Redondance possible des principaux composants (ponts, régulateur) pour une disponibilité accrue"
+            },
+            {
+              "title": "Savoir-Faire",
+              "description": "Algorithme de régulation maison développé en interne"
+            },
+            {
+              "title": "Service Clé en Main",
+              "description": "Paramétrage complet et mise en service assurés par nos équipes"
+            },
+            {
+              "title": "Rétrofit",
+              "description": "Solutions de modernisation et d'installation sur site"
+            }
+          ]
+        },
+        "fonctionnalitesRegulateur": {
+          "title": "Fonctionnalité de notre régulateur propriétaire",
+          "modeRegulation": {
+            "title": "Mode de régulation :",
+            "items": [
+              "Rampe de démarrage",
+              "Égalisation de tension durant la synchronisation",
+              "Régulation du courant d'excitation (mode manuel)",
+              "Régulation de tension",
+              "Régulation de cos φ",
+              "Régulation de puissance réactive"
+            ]
+          },
+          "autresFonctionnalites": {
+            "title": "Autres fonctionnalités :",
+            "items": [
+              "Compensation de la puissance réactive par statisme",
+              "Pré-positionnement",
+              "Pilotage du circuit d'amorçage",
+              "Limiteurs",
+              "Rapport U/F",
+              "Maximum courant d'excitation à vide et en charge",
+              "Minimum courant d'excitation",
+              "Courant stator",
+              "Tension stator",
+              "PSS",
+              "Alpha min / max"
+            ]
+          }
+        },
+        "problematiques": {
+          "title": "Vos problématiques",
+          "items": [
+            "Manque de retour d'expérience",
+            "Défaut de conception",
+            "Manquer causeur d'avantages à zéro et de traction excessive",
+            "Erreur de paramétrage",
+            "Non-disponibilité de pièces",
+            "Tension stator",
+            "Etc."
+          ]
+        },
+        "systemesRegulateur": {
+          "title": "Systèmes régulateur pour une traçabilité",
+          "items": [
+            "Nous proposons des armoires neuves ou de montée de niveau de vos anciens régulateurs et charme",
+            "Service Clé en Main : Surveillance-conseil et communication avec vos équipes de régulation",
+            "Fiabilité : Solutions de remplacement de service assuré"
+          ]
+        },
+        "servicesPropose": {
+          "title": "Services proposés",
+          "items": [
+            "Service : votre régulation",
+            "SCADA / Modbus RTU / port de communication",
+            "AC & DC / port ethernet",
+            "Choix / Régulateur multiconsommateur ou d'excitation (obsolète)",
+            "Kits / Régul secours personnel excitation",
+            "Portail / équivalents fonctionnels",
+            "Mise hors service tension et remise en service équipement",
+            "Porte auxiliaire / port statorique de courant et de tension"
+          ]
+        },
+        "cta": {
+          "title": "Besoin d'une solution d'excitation ou de régulation ?",
+          "subtitle": "Contactez-nous pour un dimensionnement adapté à votre alternateur",
+          "button": "Obtenir un devis"
+        },
+        "protectionsRegulateur": {
+          "title": "Protections",
+          "items": [
+            "Perte tension alimentation AC",
+            "Défaut pont redresseur",
+            "Masse rotor",
+            "Défaut température transformateur excitation",
+            "Chien de garde automate",
+            "Mini / Maxi courant excitation",
+            "Mini / Maxi tension excitation",
+            "Maxi courant stator",
+            "Maxi tension alternateur",
+            "Perte excitation (par absorption de puissance réactive)",
+            "Amorçage trop long"
+          ]
+        }
+      }
+    },
+    "protections": {
+      "title": "Protection électrique",
+      "subtitle": "Expertise en Ingénierie et Mise en Service de Systèmes de Protection Électrique",
+      "description": "Solutions complètes de protection pour alternateurs, transformateurs et lignes électriques. Systèmes de protection avancés conformes aux normes internationales",
+      "details": {
+        "detail1": " alternateurs",
+        "detail2": " transformateurs",
+        "detail3": " lignes"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Expertise en Ingénierie et Mise en Service de Systèmes de Protection Électrique",
+        "equipementsCritiques": {
+          "title": "Notre savoir-faire couvre l'ensemble des équipements critiques :",
+          "items": [
+            "Alternateurs",
+            "Moteurs",
+            "Transformateurs de puissance et de distribution",
+            "Lignes et câbles d'alimentation"
+          ]
+        },
+        "etudesIngenierie": {
+          "title": "1. Études d'Ingénierie et de Coordination des Protections",
+          "intro": "Nous réalisons des études de calcul approfondies pour assurer une parfaite sélectivité de vos protections :",
+          "items": [
+            {
+              "titre": "Calcul des courants de court-circuit",
+              "description": "selon la norme CEI 60909"
+            },
+            {
+              "titre": "Simulation et coordination des protections",
+              "description": "à l'aide du logiciel de référence ETAP"
+            },
+            {
+              "titre": "Rédaction de dossiers techniques complets",
+              "description": "(notes de calcul, rapports d'étude, courbes de déclenchement)"
+            }
+          ]
+        },
+        "configurationTests": {
+          "title": "2. Configuration, Tests et Mise en Service",
+          "intro": "Notre intervention assure la conformité entre l'étude théorique et la réalité terrain :",
+          "items": [
+            {
+              "titre": "Configuration et réglage précis",
+              "description": "des paramètres des relais"
+            },
+            {
+              "titre": "Tests et validation en atelier",
+              "description": "sur banc d'essai pour pré-valider les fonctionnalités"
+            },
+            {
+              "titre": "Mise en service et tests sur site",
+              "description": "avec valise d'injection secondaire pour la vérification finale de la chaîne de protection"
+            }
+          ]
+        },
+        "typesProtections": {
+          "title": "Solutions de Protection",
+          "items": [
+            {
+              "type": "Alternateurs",
+              "description": "Protection complète : différentielle, surcharge thermique, déséquilibre, perte d'excitation, retour de puissance",
+              "fonctions": "ANSI 87G, 49, 46, 40, 32, 64"
+            },
+            {
+              "type": "Transformateurs",
+              "description": "Protection différentielle, masse cuve, Buchholz, surcharge thermique, protection terre",
+              "fonctions": "ANSI 87T, 63, 49, 50N/51N"
+            },
+            {
+              "type": "Lignes Électriques",
+              "description": "Protection de distance, surintensité directionnelle, défaut terre, réenclencheur automatique",
+              "fonctions": "ANSI 21, 67, 50N/51N, 79"
+            }
+          ]
+        },
+        "specifications": {
+          "title": "Spécifications Techniques",
+          "items": [
+            "Conformes normes IEC 60255 et IEEE",
+            "Relais numériques haute performance",
+            "Protection différentielle (87)",
+            "Protection de distance (21)",
+            "Protection de surcharge (49/51)",
+            "Protection terre (50N/51N)",
+            "Enregistreur de perturbographie",
+            "Communication IEC 61850"
+          ]
+        },
+        "cta": {
+          "title": "Protégez vos équipements électriques",
+          "subtitle": "Assurez la sécurité et la fiabilité de votre installation",
+          "button": "Demander une étude"
+        }
+      }
+    },
+    "instrumentation": {
+      "title": "Instrumentation",
+      "subtitle": "Fourniture, installation et mise en service",
+      "description": "Nous pouvons vous apporter une solution pour l'instrumentation et pièces détachées pour l'ensemble de vos besoins aussi bien dans l'usine que aux barrage et prise d'eau",
+      "details": {
+        "detail1": "Instrumentation",
+        "detail2": "Barrages et prises d'eau",
+        "detail3": "Pièces de détachées",
+        "detail4": "Electrique et mécanique"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Instrumentation",
+        "subtitle": "Fourniture, installation et mise en service",
+        "intro": {
+          "title": "Solution Complète d'Instrumentation",
+          "p1": "Que ce soit pour vos unités de production, barrages ou prises d'eau, nous proposons instrumentation et pièces de rechanges pour l'ensemble de vos équipements. Notre expertise couvre l'ensemble de vos besoins.",
+          "p2": "Notre gamme comprend des instruments de mesure pour : niveaux (barrages, prises d'eau, canaux), températures (paliers, enroulements, huile), positions (vannes, clapets, distributeur), vitesses (rotation turbine), vibrations (surveillance des groupes), débits (canal ouvert et conduite forcée).",
+          "p3": "Tous nos capteurs sont de qualité industrielle, sélectionnés auprès de fabricants reconnus. Ils sont calibrés en laboratoire avant livraison et fournis avec leurs certificats de calibration.",
+          "p4": "L'installation est réalisée par nos équipes ou nos partenaires locaux qualifiés. Nous assurons le câblage complet jusqu'aux armoires de contrôle, les tests de mise en service et la formation des opérateurs."
+        },
+        "typesInstrumentation": {
+          "title": "Types de Capteurs",
+          "items": [
+            {
+              "categorie": "Niveaux",
+              "capteurs": [
+                "Radar",
+                "Ultrason",
+                "Flotteur",
+                "Piézométrique"
+              ]
+            },
+            {
+              "categorie": "Température",
+              "capteurs": [
+                "PT100",
+                "Thermocouple",
+                "RTD",
+                "Infrarouge"
+              ]
+            },
+            {
+              "categorie": "Pression",
+              "capteurs": [
+                "Piézorésistif",
+                "Capacitif",
+                "Différentiel"
+              ]
+            },
+            {
+              "categorie": "Débit",
+              "capteurs": [
+                "Électromagnétique",
+                "Ultrason",
+                "Vortex",
+                "Canal ouvert"
+              ]
+            }
+          ]
+        },
+        "applications": {
+          "title": "Applications",
+          "items": [
+            "Mesure de niveau dans les barrages",
+            "Contrôle de débit en canal ouvert",
+            "Mesure de débit en conduite forcée",
+            "Surveillance de température paliers",
+            "Mesure de vibration des groupes",
+            "Position des vannes et clapets",
+            "Vitesse de rotation turbine",
+            "Pression hydraulique circuits"
+          ]
+        },
+        "specifications": {
+          "title": "Spécifications",
+          "items": [
+            "Capteurs industriels certifiés",
+            "Calibration en laboratoire",
+            "Protection IP65 à IP68",
+            "Signaux 4-20mA / 0-10V / numérique",
+            "Compatible automates et SCADA",
+            "Installation complète clé en main",
+            "Documentation technique fournie",
+            "Formation des équipes locales"
+          ]
+        },
+        "essais": {
+          "title": "Tests et Validation",
+          "items": [
+            "Vérification de la calibration",
+            "Test des boucles 4-20mA",
+            "Validation des mesures",
+            "Test de communication",
+            "Vérification des alarmes",
+            "Test d'étanchéité",
+            "Essai fonctionnel complet",
+            "Documentation as-built"
+          ]
+        },
+        "cta": {
+          "title": "Besoin d'instrumentation ?",
+          "subtitle": "Nous vous accompagnons dans le choix et l'installation de vos capteurs",
+          "button": "Demander un devis"
+        },
+        "expertise": {
+          "title": "Notre Expertise",
+          "items": [
+            {
+              "title": "Approvisionnement Européen",
+              "description": "Grâce à notre implantation, nous identifions et livrons toutes les pièces nécessaires auprès de notre vaste réseau de fournisseurs à travers le continent"
+            },
+            {
+              "title": "Installation sur site",
+              "description": "Nos équipes et partenaires peuvent intervenir pour l'installation des équipements, assurant un service clé en main"
+            },
+            {
+              "title": "Rétrofit & Modernisation",
+              "description": "Nous développons des solutions de rétrofit clé en main destinées à la modernisation de vos systèmes obsolètes en y intégrant les dernières technologies afin d'en optimiser les performances et la durée de vie"
+            }
+          ]
+        },
+        "instrumentationUsine": {
+          "title": "Instrumentation usine",
+          "items": [
+            "Vitesse",
+            "Vibration",
+            "Température",
+            "Position vannage / injecteur",
+            "Etc."
+          ]
+        },
+        "instrumentationBarrage": {
+          "title": "Instrumentation barrage et prises d'eau",
+          "items": [
+            "Niveau",
+            "Température air / eau",
+            "Position de vanne et clapets",
+            "Débit en canal ouvert",
+            "Débit en conduite forcée",
+            "Engravement",
+            "Etc."
+          ]
+        },
+        "piecesRechange": {
+          "title": "Pièces de rechanges",
+          "items": [
+            "Contrôle commande",
+            "Postes HTA / HTB",
+            "Équipements mécaniques",
+            "Équipements hydrauliques"
+          ]
+        }
+      }
+    },
+    "ingenierie": {
+      "title": "Ingénierie du système électrique",
+      "subtitle": "Postes HTA, Distributions des auxiliaires, Systèmes Auxiliaires",
+      "description": "Ingénierie du Système Electrique Intégration de l'ensemble des équipements électriques nécessaires au fonctionnement d'une centrale hydroélectrique. Post HTA, transformateur et distribution auxilaires indispensables au bon fonctionnement de l'usine ",
+      "details": {
+        "detail1": "Postes HTA",
+        "detail2": "Distributions des auxiliaires",
+        "detail3": "Systèmes Auxiliaires"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Ingénierie du Système Électrique",
+        "subtitle": "Postes HTA, Distributions des auxiliaires, Systèmes Auxiliaires",
+        "intro": {
+          "title": "Intégration Complète des Systèmes Électriques",
+          "p1": "Nous assurons l'ingénierie et l'intégration de l'ensemble des équipements électriques nécessaires au fonctionnement d'une centrale hydroélectrique, depuis les postes haute tension jusqu'aux distributions auxiliaires. Nous réalisons les études de court-circuit et de sélectivité des protections à l'aide de logiciels dédiés.",
+          "p2": "Les postes HTA/HTB comprennent les transformateurs élévateurs, les cellules et les disjoncteurs et tous les équipements nécessaires pour l'évacuation de l'énergie produite vers le réseau.",
+          "p3": "Les auxiliaires – ou Balance of Plant électrique (eBoP) regroupent tous les équipements électriques auxiliaires indispensables afin d'assurer le bon fonctionnement de l'usine."
+        },
+        "advantages": {
+          "title": "Nos Atouts",
+          "items": [
+            {
+              "title": "Intégration Complète",
+              "description": "Conception globale de tous les systèmes électriques"
+            },
+            {
+              "title": "Fiabilité",
+              "description": "Solutions redondantes pour systèmes critiques"
+            },
+            {
+              "title": "Expertise",
+              "description": "Études de court-circuit et sélectivité des protections"
+            }
+          ]
+        },
+        "solutions": {
+          "title": "Nos Solutions",
+          "postesHTA": {
+            "title": "Postes HTA",
+            "items": [
+              "Cellules HTA",
+              "Armoires de protections",
+              "Transformateur élévateur",
+              "Transformateur services auxiliaires"
+            ]
+          },
+          "distributions": {
+            "title": "Distributions des auxiliaires",
+            "items": [
+              "TGBT 400V",
+              "Tableaux divisionnaires",
+              "Chargeurs de batteries",
+              "110V/48V/24V",
+              "Distribution DC",
+              "Onduleurs",
+              "Avec possibilité de redondantes pour les systèmes critiques"
+            ]
+          },
+          "systemesAuxiliaires": {
+            "title": "Systèmes Auxiliaires",
+            "items": [
+              "Systèmes de ventilation et de chauffage",
+              "Armoires de contrôle de pompes d'exhaure ou de Vidéosurveillance",
+              "Système de téléphonie",
+              "Alarmes anti intrusion",
+              "Alarmes incendie",
+              "Éclairage et prises de courant"
+            ]
+          }
+        },
+        "cta": {
+          "title": "Besoin d'une ingénierie électrique complète ?",
+          "subtitle": "Contactez-nous pour une étude personnalisée de votre installation",
+          "button": "Obtenir un devis"
+        }
+      }
+    },
+    "dataVisualisation": {
+      "title": "Visualisation de données et rapports",
+      "subtitle": "Industrie 4.0 - IoT - BigData",
+      "description": "Solutions innovantes Industrie 4.0 intégrant IoT et BigData pour collecter, stocker, compiler et valoriser les données sous forme de tableaux de bord dynamiques",
+      "details": {
+        "detail1": "Industrie 4.0",
+        "detail2": "IoT & BigData",
+        "detail3": "Tableaux de bord dynamiques"
+      },
+      "page": {
+        "backButton": "Retour aux produits",
+        "mainTitle": "Visualisation de données et rapports",
+        "subtitle": "Industrie 4.0 - IoT - BigData",
+        "intro": [
+          "Nos solutions de Visualisation de données transforment vos données brutes en informations exploitables. Grâce à l'intégration des technologies IoT et BigData, nous collectons, stockons et analysons toutes les données de vos installations, que ce soit les données de production (puissances, niveaux, températures, vitesse, état de fonctionnement du groupe, etc.) mais aussi les alarmes. Il est également possible d'enrichir cette base de données avec des informations provenant de Vigicrue ou de Météo France ou autre.",
+          "Les tableaux de bord dynamiques offrent une vue en temps réel de vos KPI essentiels : production, disponibilité, facteur de charge, et bien plus. Chaque tableau est personnalisable selon vos besoins et inclus des fonctionnalités telles que le carnet de bord pour consigner les évènements. Cela facilite l'analyse des données, l'identification des tendances, la détection de dérive inhabituelle et contribue ainsi à optimiser l'efficacité de vos installations.",
+          "L'accès à cette plateforme s'effectue via un serveur web, garantissant une compatibilité avec tout type de support (PC, smartphone) et bénéficiant d'un système d'authentification sécurisé par mot de passe."
+        ],
+        "mainFeatures": {
+          "title": "Fonctionnalités Clés",
+          "items": [
+            {
+              "title": "Collecte de Données",
+              "description": "Acquisition automatique et horodatée des données depuis tous vos installations, vigicrue, Météo France, etc."
+            },
+            {
+              "title": "Analyse",
+              "description": "Transforme les données historisées en données consolidées et valorisées"
+            },
+            {
+              "title": "Visualisation",
+              "description": "Tableaux de bord interactifs et personnalisables"
+            }
+          ]
+        },
+        "specifications": {
+          "title": "Caractéristiques Techniques",
+          "items": [
+            "Solutions Industrie 4.0",
+            "Intégration IoT et BigData",
+            "Tableaux de bord dynamiques",
+            "Stockage sur serveur local et / ou cloud",
+            "Accès sécurisé",
+            "Carnet de bord pour consigner les événements"
+          ]
+        },
+        "reports": {
+          "title": "Types de Rapports",
+          "items": [
+            "Rapports de production journaliers",
+            "Analyses de performance mensuelle",
+            "KPI temps réel",
+            "Alertes automatiques",
+            "Comparatifs historiques",
+            "Journal d'alarmes"
+          ]
+        },
+        "cta": {
+          "title": "Valorisez vos données !",
+          "subtitle": "Transformez vos données en avantage compétitif",
+          "button": "Demander une démo"
+        }
+      }
+    }
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "backToProducts": "Retour aux produits",
+    "getQuote": "Demander un devis",
+    "contactUs": "Nous contacter",
+    "learnMore": "En savoir plus",
+    "requestQuote": "Demander un devis",
+    "requestDemo": "Demander une démo",
+    "requestStudy": "Demander une étude",
+    "features": "Fonctionnalités",
+    "specifications": "Spécifications",
+    "applications": "Applications",
+    "advantages": "Avantages"
+  }
+}
